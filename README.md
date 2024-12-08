@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=phemelosteve&label=Profile%20views&color=0e75b6&style=flat" alt="phemelosteve" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=phemelosteve" alt="phemelosteve" /></a> </p>
+<!--<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=phemelosteve" alt="phemelosteve" /></a> </p>-->
 
 - 🌱 I’m currently learning **ASP.NET Core**
 
