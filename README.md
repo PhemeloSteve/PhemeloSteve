@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Phemelo Mokwena</h1>
-<h3 align="center">I am a passionate BSc in IT student at the University of the Free State majoring in Computer Sciences and Mathematics....</h3>
+<h3 align="center">I am a passionate BSc in IT student at the University of the Free State majoring in Computer Sciences and Mathematics</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=phemelosteve&label=Profile%20views&color=0e75b6&style=flat" alt="phemelosteve" /> </p>
 
@@ -12,6 +12,7 @@
 - 💬 Ask me about **C#**
 
 - 📫 How to reach me **phemelosteve@gmail.com**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -31,3 +32,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=phemelosteve&" alt="phemelosteve" /></p>
 
+<p>Portfolio: <a href="www.phemelosteve.co.za" target="_blank"><i class="fa-light fa-link"></i>www.phemelosteve.co.za</a></p>
