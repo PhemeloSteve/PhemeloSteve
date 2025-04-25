@@ -27,7 +27,9 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=phemelosteve&show_icons=true&locale=en" alt="phemelosteve" /></p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=phemelosteve" alt="phemelosteve" />
+  <a href="https://github-readme-streak-stats.herokuapp.com/?user=phemelosteve" target="_blank">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=phemelosteve" alt="phemelosteve" />
+  </a>
 </p>
 
 <p>Portfolio: <a href="www.phemelosteve.co.za" target="_blank"><i class="fa-light fa-link"></i>www.phemelosteve.co.za</a></p>
