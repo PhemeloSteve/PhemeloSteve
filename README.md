@@ -32,4 +32,4 @@
   </a>
 </p>
 
-<p>Portfolio: <a href="www.phemelosteve.co.za" target="_blank"><i class="fa-light fa-link"></i>www.phemelosteve.co.za</a></p>
+<p>Portfolio: <a href="[www.phemelosteve.co.za](https://www.phemelosteve.co.za/)" target="_blank"><i class="fa-light fa-link"></i>www.phemelosteve.co.za</a></p>
