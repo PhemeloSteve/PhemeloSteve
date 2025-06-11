@@ -14,7 +14,7 @@
 <p align="left">
 <a href="https://dev.to/phemelosteve" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="phemelosteve" height="30" width="40" /></a>
 <a href="https://twitter.com/stevephemelo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="stevephemelo" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/phemelosteve" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="phemelosteve" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/phemelomokwena/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="phemelosteve" height="30" width="40" /></a>
 <a href="https://instagram.com/steve.phemelo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="steve.phemelo" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/phemelosteve" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="phemelosteve" height="30" width="40" /></a>
 </p>
