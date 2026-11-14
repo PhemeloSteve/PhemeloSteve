@@ -28,12 +28,19 @@ cloud / DevOps role.
 Community funding platform where South African small businesses document their
 progress and goals, and investors or donors can back them. Built solo in 72
 hours for the FNB hackathon.
-*Supabase · Vercel · [add frontend/backend stack]*
+
+- **Frontend:** Next.js 15 (App Router), React, TypeScript, installable PWA, Tailwind CSS
+- **Backend:** Supabase (PostgreSQL, Auth, Storage) with Row Level Security
+- **Geo search:** PostGIS, with maps on Leaflet and OpenStreetMap
+- **Quality:** Zod validation, Vitest unit tests and SQL database checks
+- **CI/CD:** GitHub Actions running lint, typecheck, tests, build, dependency audit,
+  CodeQL and database tests; deployed on Vercel and Supabase
 
 ### NextPane (private repository)
 Turns an Android tablet into a secondary display for a Linux machine, with
 touch/stylus input and audio forwarding. Uses an encrypted transport (Noise),
 device pairing and handshake fuzzing.
+
 *Rust (host daemon) · Kotlin and C++/NDK (Android client)*
 Architecture write-up available on request.
 
@@ -41,9 +48,12 @@ Architecture write-up available on request.
 
 | Area | Technologies |
 |---|---|
-| **Core** | C#, .NET, Python, JavaScript, Node.js, HTML/CSS, Rust, Linux, Bash, Git |
+| **Languages** | C#, TypeScript, JavaScript, Python, Rust |
+| **Web & Backend** | .NET, Next.js, React, Node.js, Supabase, PostgreSQL / PostGIS, Tailwind CSS |
+| **Quality & CI** | GitHub Actions, Vitest, CodeQL, dependency auditing, Git |
+| **Systems** | Linux, Bash |
 | **Security** | Burp Suite, Metasploit, John the Ripper, TryHackMe (200+ day streak) |
-| **Currently learning** | AWS, Docker, Terraform, GitHub Actions (CI/CD), Kubernetes basics |
+| **Currently learning** | AWS, Docker, Terraform, Kubernetes basics |
 
 ## Certifications
 
@@ -55,21 +65,4 @@ Architecture write-up available on request.
 ## Currently Working Toward
 
 - A secured, containerised API with a CI/CD pipeline (GitHub Actions, scanning, Docker)
-- A Terraform-built AWS environment, then an end-to-end deployment on AWS (ECS Fargate)
-- Junior cloud and DevOps roles from mid-2027
-
-## Experience & Leadership
-
-- **Treasurer, IT Student Association (ITSA):** University of the Free State, Feb 2026 to present
-- **A-STEP Tutor (C# .NET):** University of the Free State, Mar to May 2026
-- **Student Assistant, C# Programming:** University of the Free State, Jul 2024 to Nov 2025
-- **Student Assistant, Web Development:** University of the Free State, Jul to Nov 2024
-- **Student Assistant, Calculus:** University of the Free State, Feb to Jun 2024
-- **Software Engineering Intern (Work Integrated Learning):** BBD, Jun to Jul 2025
-- **Virtual Intern:** Quantify Your Future, Jan to Feb 2025
-- **Hackathon:** FNB App of the Year (2026)
-
-## Contact
-
-Open to internship and graduate opportunities in cloud, DevOps and backend
-engineering: [phemelosteve@gmail.com](mailto:phemelosteve@gmail.com)
+- A Terraform-built AWS
