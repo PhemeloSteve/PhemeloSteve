@@ -1,35 +1,75 @@
-<h1 align="center">Hi 👋, I'm Phemelo Mokwena</h1>
-<h3 align="center">I am a passionate BSc in IT student at the University of the Free State majoring in Computer Sciences and Mathematics</h3>
+<div align="center">
 
-- 🌱 I’m currently learning **ASP.NET Core**
+# Phemelo Steve Mokwena
 
-- 👨‍💻 All of my projects are available at [github.com/phemelosteve](github.com/phemelosteve)
+**BSc IT Student (Computer Science & Mathematics) · University of the Free State**
 
-- 💬 Ask me about **C#**
+Backend Development · Cloud · Security
 
-- 📫 How to reach me **phemelosteve@gmail.com**
+I build backend systems and automate their delivery with a focus on reliability and security.
 
+[Email](mailto:phemelosteve@gmail.com) · [LinkedIn](https://www.linkedin.com/in/phemelomokwena/) · [Kasi Kapital (live)](https://kasi-kapital.vercel.app/)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://dev.to/phemelosteve" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="phemelosteve" height="30" width="40" /></a>
-<a href="https://twitter.com/stevephemelo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="stevephemelo" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/phemelomokwena/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="phemelosteve" height="30" width="40" /></a>
-<a href="https://instagram.com/steve.phemelo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="steve.phemelo" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/phemelosteve" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="phemelosteve" height="30" width="40" /></a>
-</p>
+</div>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=phemelosteve&show_icons=true&locale=en&layout=compact" alt="phemelosteve" /></p>
+## About
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=phemelosteve&show_icons=true&locale=en" alt="phemelosteve" /></p>
+Fourth-year BSc IT student at the University of the Free State, graduating in 2027.
+Since 2024 I have worked as a student assistant and tutor for C#, web development
+and calculus, and I have completed two internships. Outside of class I build
+projects, practise security on TryHackMe, and I'm working towards a junior
+cloud / DevOps role.
 
-<p align="center">
-  <a href="https://github-readme-streak-stats.herokuapp.com/?user=phemelosteve" target="_blank">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=phemelosteve" alt="phemelosteve" />
-  </a>
-</p>
+## Featured Projects
 
-<p>Portfolio: <a href="https://www.phemelosteve.co.za" target="_blank"><i class="fa-light fa-link"></i>www.phemelosteve.co.za</a></p>
+### [Kasi Kapital](https://github.com/PhemeloSteve/kasi-kapital) · [Live demo](https://kasi-kapital.vercel.app/)
+Community funding platform where South African small businesses document their
+progress and goals, and investors or donors can back them. Built solo in 72
+hours for the FNB hackathon.
+*Supabase · Vercel · [add frontend/backend stack]*
+
+### NextPane (private repository)
+Turns an Android tablet into a secondary display for a Linux machine, with
+touch/stylus input and audio forwarding. Uses an encrypted transport (Noise),
+device pairing and handshake fuzzing.
+*Rust (host daemon) · Kotlin and C++/NDK (Android client)*
+Architecture write-up available on request.
+
+## Technical Skills
+
+| Area | Technologies |
+|---|---|
+| **Core** | C#, .NET, Python, JavaScript, Node.js, HTML/CSS, Rust, Linux, Bash, Git |
+| **Security** | Burp Suite, Metasploit, John the Ripper, TryHackMe (200+ day streak) |
+| **Currently learning** | AWS, Docker, Terraform, GitHub Actions (CI/CD), Kubernetes basics |
+
+## Certifications
+
+- Microsoft Certified: Azure Data Fundamentals (DP-900), Jul 2025
+- TryHackMe Cyber Security 101, Dec 2025
+- AWS Certified Cloud Practitioner: *exam planned December 2026*
+- AWS Certified Solutions Architect Associate: *planned March 2027*
+
+## Currently Working Toward
+
+- A secured, containerised API with a CI/CD pipeline (GitHub Actions, scanning, Docker)
+- A Terraform-built AWS environment, then an end-to-end deployment on AWS (ECS Fargate)
+- Junior cloud and DevOps roles from mid-2027
+
+## Experience & Leadership
+
+- **Treasurer, IT Student Association (ITSA):** University of the Free State, Feb 2026 to present
+- **A-STEP Tutor (C# .NET):** University of the Free State, Mar to May 2026
+- **Student Assistant, C# Programming:** University of the Free State, Jul 2024 to Nov 2025
+- **Student Assistant, Web Development:** University of the Free State, Jul to Nov 2024
+- **Student Assistant, Calculus:** University of the Free State, Feb to Jun 2024
+- **Software Engineering Intern (Work Integrated Learning):** BBD, Jun to Jul 2025
+- **Virtual Intern:** Quantify Your Future, Jan to Feb 2025
+- **Hackathon:** FNB App of the Year (2026)
+
+## Contact
+
+Open to internship and graduate opportunities in cloud, DevOps and backend
+engineering: [phemelosteve@gmail.com](mailto:phemelosteve@gmail.com)
