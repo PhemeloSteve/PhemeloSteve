@@ -4,7 +4,7 @@
 
 **BSc IT Student (Computer Science & Mathematics) · University of the Free State**
 
-Backend Development · Cloud · Security
+Software and Backend Development · Cloud and CI/CD
 
 I build backend systems and automate their delivery with a focus on reliability and security.
 
@@ -19,8 +19,8 @@ I build backend systems and automate their delivery with a focus on reliability 
 Fourth-year BSc IT student at the University of the Free State, graduating in 2027.
 Since 2024 I have worked as a student assistant and tutor for C#, web development
 and calculus, and I have completed two internships. Outside of class I build
-projects, practise security on TryHackMe, and I'm working towards a junior
-cloud / DevOps role.
+projects, practise security on TryHackMe, and I'm looking for graduate and junior
+roles in software development, backend and cloud engineering.
 
 ## Featured Projects
 
@@ -48,7 +48,7 @@ Architecture write-up available on request.
 
 | Area | Technologies |
 |---|---|
-| **Languages** | C#, TypeScript, JavaScript, Python, Rust |
+| **Languages** | C#, TypeScript, JavaScript, Python, Rust, SQL |
 | **Web & Backend** | .NET, Next.js, React, Node.js, Supabase, PostgreSQL / PostGIS, Tailwind CSS |
 | **Quality & CI** | GitHub Actions, Vitest, CodeQL, dependency auditing, Git |
 | **Systems** | Linux, Bash |
@@ -65,4 +65,21 @@ Architecture write-up available on request.
 ## Currently Working Toward
 
 - A secured, containerised API with a CI/CD pipeline (GitHub Actions, scanning, Docker)
-- A Terraform-built AWS
+- A Terraform-built AWS environment, then an end-to-end deployment on AWS (ECS Fargate)
+- Junior software, backend and cloud / DevOps roles from mid-2027
+
+## Experience & Leadership
+
+- **Treasurer, IT Student Association (ITSA):** University of the Free State, Feb 2026 to present
+- **A-STEP Tutor (C# .NET):** University of the Free State, Mar to May 2026
+- **Student Assistant, C# Programming:** University of the Free State, Jul 2024 to Nov 2025
+- **Student Assistant, Web Development:** University of the Free State, Jul to Nov 2024
+- **Student Assistant, Calculus:** University of the Free State, Feb to Jun 2024
+- **Software Engineering Intern (Work Integrated Learning):** BBD, Jun to Jul 2025
+- **Virtual Intern:** Quantify Your Future, Jan to Feb 2025
+- **Hackathon:** FNB App of the Year (2026)
+
+## Contact
+
+Open to graduate and junior opportunities in software development, backend and
+cloud engineering: [phemelosteve@gmail.com](mailto:phemelosteve@gmail.com)
